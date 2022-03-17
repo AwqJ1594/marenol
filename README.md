@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+CN:
+## 你好！
+这是一个屑网页，用来收集 _脏活_ 的.jpg~~（也许以后会收集其他语言的）~~
 
-You can use the [editor on GitHub](https://github.com/JerryMouse10124/marenol.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+主要吧，开发者是中国人，所以暂时先收集中文罢.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#现在，这个网站正在建造，~~我希望能在有生之年能写完这玩意~~
 
-### Markdown
+（招无偿的能够熟练的操控优美中国话的犇犇以及网站建造者，_没有月薪_.jpg）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Eng:
 
-```markdown
-Syntax highlighted code block
+## Hello!
+This is a shit page which want to collect the _dirty words_~~(Perhaps around the world)~~.
 
-# Header 1
-## Header 2
-### Header 3
+To be clear,This website now is only collect chinese because creator is chinese.I'm so sorry!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JerryMouse10124/marenol.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Now,the pages are building.~~I hope it can be done before i dead.~~
